@@ -161,7 +161,7 @@ class _MyAppState extends State<MyApp> {
             Container(
               color: Colors.white,
               height: 300,
-              width: 370,
+              width: 370.0,
               child: tosh,
             )
           ],
